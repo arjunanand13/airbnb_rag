@@ -1,0 +1,9 @@
+llama-cpp-python
+langchain_community
+transformers 
+langchain 
+faiss-cpu 
+sentence-transformers
+accelerate>=0.26.0
+gradio
+tf-keras

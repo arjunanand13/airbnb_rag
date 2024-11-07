@@ -1,0 +1,6 @@
+{
+  "total_documents": 25178,
+  "embedding_dimension": 384,
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "batch_size": 128
+}
